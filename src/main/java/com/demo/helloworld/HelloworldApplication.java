@@ -11,7 +11,7 @@ public class HelloworldApplication {
 
 	@GetMapping("/")
 	String home() {
-		return "Hello Java team STDIO Huế lần 2";
+		return "Hello Java team STDIO Huế lần 3";
 	}
 
 	public static void main(String[] args) {
